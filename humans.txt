@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Faisal Humayun faisal.humayun@outlook.com @fhumayun
 
 # THANKS
 
