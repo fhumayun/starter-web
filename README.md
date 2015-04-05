@@ -8,3 +8,5 @@ As stated above
 ## Deployment
 This is a simple web project, deployment can be on any webserver or localhost.
 ## How to Contribute
+### Copyright
+Copyright 2015.
